@@ -79,7 +79,6 @@ The project received the **Best Project Poster Award**.
 
 All source code can be found in my pinned repositories.
 
----
 
 # Tech Stack ⚡
 
