@@ -6,7 +6,6 @@ I'm **Raji Radhwan Booqis**, a Full-Stack JavaScript Developer passionate about 
 
 I enjoy turning ideas into real products using modern technologies like Next.js, React, Node.js, Express, PostgreSQL, and AI APIs. Whether it's designing an elegant frontend or architecting a backend API, I love solving problems and continuously improving my craft.
 
----
 
 # About Me 🚀
 
@@ -23,7 +22,6 @@ Some things I enjoy building:
 - ⚡ REST APIs
 - 🎨 Responsive UI/UX
 
----
 
 # Current Focus 🎯
 
@@ -41,7 +39,6 @@ I'm learning and improving my skills in:
 
 My long-term goal is to build successful SaaS products and become an expert software engineer.
 
----
 
 # Featured Projects 👨‍💻
 
@@ -59,7 +56,6 @@ A portfolio management platform that allows developers and freelancers to create
 - Contact Management
 - Responsive Design
 
----
 
 ## 📚 Bookified
 
@@ -73,7 +69,6 @@ An AI-powered SaaS application that lets users upload PDF documents and chat wit
 - Subscription Plans
 - Responsive Design
 
----
 
 ## 🧠 Arabic OCR Research
 
@@ -81,10 +76,10 @@ My graduation project focused on improving Arabic OCR accuracy using custom data
 
 The project received the **Best Project Poster Award**.
 
----
 
 All source code can be found in my pinned repositories.
 
+---
 
 # Tech Stack ⚡
 
@@ -99,12 +94,14 @@ All source code can be found in my pinned repositories.
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
 <img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
 <img src="https://skillicons.dev/icons?i=redux" height="48"/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=django" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask" height="48"/>
 </p>
 
 ## Backend
@@ -127,14 +124,15 @@ All source code can be found in my pinned repositories.
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker" height="48"/>
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
 <img src="https://skillicons.dev/icons?i=postman" height="48"/>
 <img src="https://skillicons.dev/icons?i=figma" height="48"/>
 </p>
+
 
 ---
 
