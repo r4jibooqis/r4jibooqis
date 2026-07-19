@@ -59,7 +59,7 @@ A portfolio management platform that allows developers and freelancers to create
 
 ## 📚 Bookified
 
-An AI-powered SaaS application that lets users upload PDF documents and chat with them using artificial intelligence.
+An AI-powered SaaS application that lets users upload PDF book and talk with them using AI.
 
 ### Features
 
@@ -72,7 +72,7 @@ An AI-powered SaaS application that lets users upload PDF documents and chat wit
 
 ## 🧠 Arabic OCR Research
 
-My graduation project focused on improving Arabic OCR accuracy using custom datasets and machine learning techniques built on top of Google Tesseract OCR.
+My graduation project focused on improving Arabic OCR accuracy using synthetic datasets to train Google Tesseract OCR model.
 
 The project received the **Best Project Poster Award**.
 
@@ -133,8 +133,6 @@ All source code can be found in my pinned repositories.
 <img src="https://skillicons.dev/icons?i=figma" height="48"/>
 </p>
 
-
----
 
 # Let's Connect 🤝
 
