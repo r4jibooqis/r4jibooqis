@@ -103,8 +103,6 @@ All source code can be found in my pinned repositories.
 <img src="https://skillicons.dev/icons?i=redux" height="48"/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
-<img src="https://skillicons.dev/icons?i=django" height="48"/>
-<img src="https://skillicons.dev/icons?i=flask" height="48"/>
 </p>
 
 ## Backend
@@ -113,6 +111,8 @@ All source code can be found in my pinned repositories.
 <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
 <img src="https://skillicons.dev/icons?i=express" height="48"/>
 <img src="https://skillicons.dev/icons?i=supabase" height="48"/>
+<img src="https://skillicons.dev/icons?i=django" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask" height="48"/>
 </p>
 
 ## Database
