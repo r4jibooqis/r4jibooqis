@@ -60,6 +60,9 @@ A portfolio management platform that allows developers and freelancers to create
 ## 📚 Bookified
 
 An AI-powered SaaS application that lets users upload PDF book and talk with them using AI.
+<a href="https://bookified-by-raji.vercel.app/" target="_blank" rel="noopener noreferrer">
+   Bookified link [need rehosting]
+</a>
 
 ### Features
 
@@ -69,9 +72,6 @@ An AI-powered SaaS application that lets users upload PDF book and talk with the
 - Subscription Plans
 - Responsive Design
 
-<a href="bookified-by-raji.vercel.app" target="_blank" rel="noopener noreferrer">
-   Bookified link [need rehosting]
-</a>
 
 ## 🧠 Arabic OCR Research
 
