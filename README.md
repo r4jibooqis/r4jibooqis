@@ -6,11 +6,6 @@ I'm **Raji Radhwan Booqis**, a Full-Stack JavaScript Developer passionate about 
 
 I enjoy turning ideas into real products using modern technologies like Next.js, React, Node.js, Express, PostgreSQL, and AI APIs. Whether it's designing an elegant frontend or architecting a backend API, I love solving problems and continuously improving my craft.
 
-
-# About Me 🚀
-
-I enjoy building complete products from scratch, starting with planning and UI design all the way to deployment. I pay attention to both user experience and clean architecture because great software needs both.
-
 Some things I enjoy building:
 
 - 🌐 Modern business websites & landing pages
@@ -36,8 +31,6 @@ I'm learning and improving my skills in:
 - Cloud Deployment
 - AI Integration
 - System Design
-
-My long-term goal is to build successful SaaS products and become an expert software engineer.
 
 
 # Featured Projects 👨‍💻
@@ -92,6 +85,7 @@ All source code can be found in my pinned repositories.
 <img src="https://skillicons.dev/icons?i=ts" height="48"/>
 <img src="https://skillicons.dev/icons?i=js" height="48"/>
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
 </p>
 
 ## Frontend
