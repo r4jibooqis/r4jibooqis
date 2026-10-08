@@ -27,7 +27,7 @@ I'm learning and improving my skills in:
 - Next.js App Router
 - TypeScript
 - PostgreSQL
-- Prisma
+- Prisma & Drizzle
 - Cloud Deployment
 - AI Integration
 - System Design
